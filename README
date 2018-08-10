@@ -15,7 +15,7 @@ $ git config --list
 Download the BSP Yocto Project Environment.
 $: mkdir fsl-release-bsp
 $: cd fsl-release-bsp
-$: repo init -u https://github.com/AplexOS/YOCTO-Projects.git -b morty
+$: repo init -u https://github.com/AplexOS/YOCTO-Projects.git -b SBC-7819S-morty
 $: repo sync
 
 At the end of the commands you have every metadata you need to start work with.
